@@ -1,11 +1,8 @@
-# ChatGPT for Google
-
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leonm-cloud/BetterGeode/bettergeode.js)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=leonm-cloud.bettergeode&left_color=green&right_color=red)
+# BetterGeode 
 [![Discord](screenshots/geode.png?raw=true)
+### Notice (2023-02-25)
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
-
-### Notice (2023-02-20)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leonm-cloud/BetterGeode/bettergeode.js)
 
 As this extension has been acquired, this code repository will no longer be updated from now on.
 
