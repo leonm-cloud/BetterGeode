@@ -1,5 +1,5 @@
 # BetterGeode 
-[![Discord](screenshots/geode.png?raw=true)
+![Discord](screenshots/geode.png?raw=true)
 ### Notice (2023-02-25)
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leonm-cloud/BetterGeode/bettergeode.js)
