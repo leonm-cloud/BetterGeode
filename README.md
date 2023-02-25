@@ -2,7 +2,7 @@
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leonm-cloud/BetterGeode/bettergeode.js)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=leonm-cloud.bettergeode&left_color=green&right_color=red)
-[![Discord](https://imgs.search.brave.com/LAhD78-6HOD__C1WDYaG995dsTQmZr3CryS9U9li-7o/rs:fit:1080:1071:1/g:ce/aHR0cHM6Ly9nZW9k/ZS5ob3N0L2ltZy9H/ZW9kZURpYW1vbmQu/ZDIzNzEwOGIuc3Zn.svg](https://discord.gg/XMRaB68bZ5)
+[![Discord](screenshots/geode.png?raw=true)
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
 
 ### Notice (2023-02-20)
